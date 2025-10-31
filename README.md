@@ -110,7 +110,7 @@ UI/UX Design • Prototyping • Group Coordination • Testing
   <a href="https://www.linkedin.com/in/binger-yu/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:your.email@domain.com">
+  <a href="mailto:cvbinger@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://bing-er.github.io/Geospatial-Data-Analysis-with-Python/" target="_blank">
