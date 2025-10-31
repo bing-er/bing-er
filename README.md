@@ -52,17 +52,6 @@ Users can search for rental properties on an interactive map, filter results, an
 UI/UX Design • Prototyping • Group Coordination • Testing  
 **Tools:** Figma • Trello • GitHub • Discord
 
-
----
-
-**Overview:**  
-RentRight is a rental listing and management prototype built in **Figma** for BCIT COMP 7082.  
-Users can search for rental properties on an interactive map, filter results, and switch between **list** and **map** views.
-
-**My Role:**  
-UI/UX Design • Prototyping • Group Coordination • Testing  
-**Tools:** Figma • Trello • GitHub • Discord
-
 ---
 
 ## 💻 Systems & Algorithms Projects
