@@ -40,13 +40,13 @@
 ## 📱 RentRight (BCIT COMP 7082 – Software Engineering)
 
 <p align="center">
-  <a href="https://www.figma.com/proto/8tfAPB6F8qq0QzzQdiORG0/Material-Symbols--Icons--Pro--Community?type=design&node-id=117-108&t=JstMUIPTdKqqzCY6-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=117%3A108">
+  <a href="[https://www.figma.com/proto/8tfAPB6F8qq0QzzQdiORG0/Material-Symbols--Icons--Pro--Community?type=design&node-id=117-108&t=JstMUIPTdKqqzCY6-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=117%3A108](https://www.figma.com/proto/i8tfAPB6F8q00zqZdiOR6O/Material-Symbols--Icons--Pro--Community-?type=design&node-id=117-108&t=JsTMUlPTdKqozCY6-0&scaling=scale-down&page-id=117%3A82&starting-point-node-id=117%3A108)">
     <img src="https://github.com/bing-er/rentRight/assets/YOUR_IMAGE_ID" width="280" alt="RentRight Interactive Prototype">
   </a>
 </p>
 
 **🎯 Interactive Demo:**  
-👉 [Open Live Figma Prototype](https://www.figma.com/proto/8tfAPB6F8qq0QzzQdiORG0/Material-Symbols--Icons--Pro--Community?type=design&node-id=117-108&t=JstMUIPTdKqqzCY6-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=117%3A108)
+👉 [Open Live Figma Prototype]([https://www.figma.com/proto/8tfAPB6F8qq0QzzQdiORG0/Material-Symbols--Icons--Pro--Community?type=design&node-id=117-108&t=JstMUIPTdKqqzCY6-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=117%3A108](https://www.figma.com/proto/i8tfAPB6F8q00zqZdiOR6O/Material-Symbols--Icons--Pro--Community-?type=design&node-id=117-108&t=JsTMUlPTdKqozCY6-0&scaling=scale-down&page-id=117%3A82&starting-point-node-id=117%3A108))
 
 ---
 
