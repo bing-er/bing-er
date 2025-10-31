@@ -35,7 +35,28 @@
 - [**Network-File-Transfer**](https://github.com/bing-er/Network-File-Transfer) – Secure file transfer with AES and sockets.  
 - [**Keylog-Data-Exfiltration**](https://github.com/bing-er/Keylog-Data-Exfiltration) – Keylogger and covert data exfiltration.  
 - [**pathfinding-optimization**](https://github.com/bing-er/pathfinding-optimization) – Optimized route algorithms.  
-- [**rentRight**](https://github.com/bing-er/rentRight) – Team housing project using modern web stack.  
+- [**rentRight**](https://github.com/bing-er/rentRight) – Team housing project using modern web stack.
+
+## 📱 RentRight (BCIT COMP 7082 – Software Engineering)
+
+<p align="center">
+  <a href="https://www.figma.com/proto/8tfAPB6F8qq0QzzQdiORG0/Material-Symbols--Icons--Pro--Community?type=design&node-id=117-108&t=JstMUIPTdKqqzCY6-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=117%3A108">
+    <img src="https://github.com/bing-er/rentRight/assets/YOUR_IMAGE_ID" width="280" alt="RentRight Interactive Prototype">
+  </a>
+</p>
+
+**🎯 Interactive Demo:**  
+👉 [Open Live Figma Prototype](https://www.figma.com/proto/8tfAPB6F8qq0QzzQdiORG0/Material-Symbols--Icons--Pro--Community?type=design&node-id=117-108&t=JstMUIPTdKqqzCY6-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=117%3A108)
+
+---
+
+**Overview:**  
+RentRight is a rental listing and management prototype built in **Figma** for BCIT COMP 7082.  
+Users can search for rental properties on an interactive map, filter results, and switch between **list** and **map** views.
+
+**My Role:**  
+UI/UX Design • Prototyping • Group Coordination • Testing  
+**Tools:** Figma • Trello • GitHub • Discord
 
 ---
 
