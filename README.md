@@ -47,16 +47,6 @@
 
 ---
 
-## 🎮 Game Development Projects
-
-- [**Usan (Unreal Engine 5)**](https://github.com/bing-er/Usan) – 3D demo built with Unreal Engine.  
-- [**Zombie**](https://github.com/bing-er/Zombie) – 3D shooter multiplayer game.  
-- [**Dodge**](https://github.com/bing-er/Dodge) – Reflex-based bullet dodging game (C#).  
-- 🏰 Tower Defence Game *(Unity)* – Tower defense simulation demo.  
-- 🧟 Undead Survivor *(Unity)* – 3D survival game with custom assets and multiple levels.  
-
----
-
 ## 🧰 Other & Legacy Projects
 
 - [**PythonProject**](https://github.com/bing-er/PythonProject) – Object-oriented battle simulator.  
