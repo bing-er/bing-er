@@ -12,11 +12,11 @@
 
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
+| 🧩 [**Pathfinding Optimization**](https://github.com/bing-er/pathfinding-optimization) | A*, Dijkstra, and Jump Point Search comparison. | Python, Algorithms, AI |
 | 🛰️ [**Geospatial Data Analysis with Python**](https://bing-er.github.io/Geospatial-Data-Analysis-with-Python/) | GeoPandas + Folium project visualizing spatial data. | Python, Jupyter, GeoPandas |
 | ⚡ [**AI-Assignment3**](https://github.com/bing-er/AI-Assignment3) | Deep learning model implemented using PyTorch. | Python, PyTorch |
 | 🔐 [**Keylog Data Exfiltration**](https://github.com/bing-er/Keylog-Data-Exfiltration) | Simulated keylogger and covert data exfiltration. | Python, Networking |
 | 🧠 [**Network File Transfer (Secure)**](https://github.com/bing-er/Network-File-Transfer) | Encrypted file transfer client-server model. | Python, Sockets, AES |
-| 🧩 [**Pathfinding Optimization**](https://github.com/bing-er/pathfinding-optimization) | A*, Dijkstra, and Jump Point Search comparison. | Python, Algorithms, AI |
 
 ---
 
