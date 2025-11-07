@@ -12,6 +12,7 @@
 
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
+| [🏥 Predicting Hospital Readmission Risk](https://github.com/bing-er/hospital-readmission-prediction) | Explainable ML models (XGBoost, SHAP, LIME) predicting 30-day hospital readmissions using UCI Diabetes dataset. | Python, Scikit-learn, SHAP, LIME, Data Science |
 | 🧩 [**Pathfinding Optimization**](https://github.com/bing-er/pathfinding-optimization) | A*, Dijkstra, and Jump Point Search comparison. | Python, Algorithms, AI |
 | 🛰️ [**Geospatial Data Analysis with Python**](https://bing-er.github.io/Geospatial-Data-Analysis-with-Python/) | GeoPandas + Folium project visualizing spatial data. | Python, Jupyter, GeoPandas |
 | ⚡ [**AI-Assignment3**](https://github.com/bing-er/AI-Assignment3) | Deep learning model implemented using PyTorch. | Python, PyTorch |
