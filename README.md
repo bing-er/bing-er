@@ -12,6 +12,7 @@
 
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
+| 🔦 [Monte-Carlo Photon Transport (Jacques Model)](https://github.com/bing-er/mc-forward-jacques) | Forward Monte Carlo simulator for photon propagation in a turbid medium. Implements HOP–DROP–SPIN–ROULETTE, HG scattering, and spherical/cylindrical/planar fluence scoring. Reproduces Fig. 5.10 from Jacques (2011). | Python, NumPy, Physics Modeling, LaTeX |
 | [🏥 Predicting Hospital Readmission Risk](https://github.com/bing-er/hospital-readmission-prediction) | Explainable ML models (XGBoost, SHAP, LIME) predicting 30-day hospital readmissions using UCI Diabetes dataset. | Python, Scikit-learn, SHAP, LIME, Data Science |
 | 🧩 [**Pathfinding Optimization**](https://github.com/bing-er/pathfinding-optimization) | A*, Dijkstra, and Jump Point Search comparison. | Python, Algorithms, AI |
 | 🛰️ [**Geospatial Data Analysis with Python**](https://bing-er.github.io/Geospatial-Data-Analysis-with-Python/) | GeoPandas + Folium project visualizing spatial data. | Python, Jupyter, GeoPandas |
