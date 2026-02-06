@@ -11,11 +11,11 @@
 ## 🚀 Featured AI Mini-Projects
 
 | Project | Focus | Tools |
-|--------|------|------|
-| 🤖 [AI Mini-Project 1](link) | Pacman AI (DFS, BFS, UCS, A*) | Python |
-| 📊 [AI Mini-Project 2](link) | ML classification & regression | Scikit-learn |
-| 🧠 [AI Mini-Project 3](link) | Deep Learning | PyTorch |
-| 🔬 [AI Mini-Project 4](link) | (your topic here) | Python |
+|----------|--------------|-------------|
+| 🤖 [**AI Mini-Project 1**](https://github.com/bing-er/mini-project-1.git) | Medical insurance cost prediction using regression (EDA, feature engineering, model evaluation) | Python, Pandas, Scikit-learn |
+| 📊 [**AI Mini-Project 2**](https://github.com/bing-er/mini-project-2.git) | Telecom customer churn classification with imbalanced data handling and metric-driven evaluation | Python, Scikit-learn |
+| 🧠 [**AI Mini-Project 3**](https://github.com/bing-er/mini-project-3.git) | Unsupervised customer segmentation using clustering and anomaly detection | Python, Scikit-learn |
+| 🔬 [**AI Mini-Project 4**](https://github.com/bing-er/mini-project-4.git) | Fashion-MNIST deep learning image classification with business-oriented evaluation | Python, PyTorch |
 
 ---
 
