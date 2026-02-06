@@ -8,6 +8,17 @@
 
 ---
 
+## 🚀 Featured AI Mini-Projects
+
+| Project | Focus | Tools |
+|--------|------|------|
+| 🤖 [AI Mini-Project 1](link) | Pacman AI (DFS, BFS, UCS, A*) | Python |
+| 📊 [AI Mini-Project 2](link) | ML classification & regression | Scikit-learn |
+| 🧠 [AI Mini-Project 3](link) | Deep Learning | PyTorch |
+| 🔬 [AI Mini-Project 4](link) | (your topic here) | Python |
+
+---
+
 ## 🚀 Featured Projects
 
 | Project | Description | Tech Stack |
