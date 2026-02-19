@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 Featured AI Mini-Projects
+## 🚀 Featured AI Activities
 
 | Project | Focus | Tools |
 |----------|--------------|-------------|
