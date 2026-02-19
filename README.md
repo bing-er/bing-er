@@ -12,11 +12,11 @@
 
 | Project | Focus | Tools |
 |----------|--------------|-------------|
-| 🤖 [**AI Activity 1**](https://github.com/bing-er/mini-project-1.git) | Medical insurance cost prediction using regression (EDA, feature engineering, model evaluation) | Python, Pandas, Scikit-learn |
-| 📊 [**AI Activity 2**](https://github.com/bing-er/mini-project-2.git) | Telecom customer churn classification with imbalanced data handling and metric-driven evaluation | Python, Scikit-learn |
-| 🧠 [**AI Activity 3**](https://github.com/bing-er/mini-project-3.git) | Unsupervised customer segmentation using clustering and anomaly detection | Python, Scikit-learn |
-| 🔬 [**AI Activity 4**](https://github.com/bing-er/mini-project-4.git) | Fashion-MNIST deep learning image classification with business-oriented evaluation | Python, PyTorch |
-| 🫁 [**AI Activity 5**](https://github.com/bing-er/mini-project-5.git) | CNN-based chest X-ray pneumonia detection using deep learning, with baseline vs. augmented models, architecture experiments, and medical-focused evaluation (high recall emphasis) | Python, PyTorch, NumPy, Pandas, Matplotlib |
+| 🤖 [**AI Activity 1**]([https://github.com/bing-er/mini-project-1.git](https://github.com/bing-er/AI_Activities.git)) | Medical insurance cost prediction using regression (EDA, feature engineering, model evaluation) | Python, Pandas, Scikit-learn |
+| 📊 [**AI Activity 2**]([https://github.com/bing-er/mini-project-2.git](https://github.com/bing-er/AI_Activities.git)) | Telecom customer churn classification with imbalanced data handling and metric-driven evaluation | Python, Scikit-learn |
+| 🧠 [**AI Activity 3**]([https://github.com/bing-er/mini-project-3.git](https://github.com/bing-er/AI_Activities.git)) | Unsupervised customer segmentation using clustering and anomaly detection | Python, Scikit-learn |
+| 🔬 [**AI Activity 4**]([https://github.com/bing-er/mini-project-4.git](https://github.com/bing-er/AI_Activities.git)) | Fashion-MNIST deep learning image classification with business-oriented evaluation | Python, PyTorch |
+| 🫁 [**AI Activity 5**]([https://github.com/bing-er/mini-project-5.git](https://github.com/bing-er/AI_Activities.git)) | CNN-based chest X-ray pneumonia detection using deep learning, with baseline vs. augmented models, architecture experiments, and medical-focused evaluation (high recall emphasis) | Python, PyTorch, NumPy, Pandas, Matplotlib |
 
 ---
 
