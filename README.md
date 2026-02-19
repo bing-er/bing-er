@@ -12,41 +12,11 @@
 
 | Project | Focus | Tools |
 |----------|--------|--------|
-| 🧮 **AI Activity I** | Linear Regression from scratch (Gradient Descent, RMSE, R², Ridge & Lasso comparison) | Python, NumPy, Pandas, Scikit-learn |
-| 📊 **AI Activity II** | Credit Card Fraud Detection (Imbalanced classification, SMOTE, ROC, F1 emphasis) | Python, Scikit-learn, imbalanced-learn |
-| 🧠 **AI Activity III** | Customer Segmentation (K-Means, PCA, t-SNE, Isolation Forest) | Python, Scikit-learn |
-| 🔢 **AI Activity IV** | Neural Network from scratch + MLP on MNIST (ReLU, Softmax, training diagnostics) | Python, NumPy, TensorFlow/Keras |
-| 🔥 **AI Activity V** | CNN for Wildfire Detection (Conv2D, augmentation, GPU training, feature visualization) | TensorFlow, Keras, GPU (Colab) |
-
----
-
-## 🧠 Technical Highlights
-
-- Implemented **gradient descent and neural networks from scratch**
-- Built and compared classical ML models (Logistic, Tree, RF)
-- Addressed **severe class imbalance (0.17% fraud)**
-- Applied **dimensionality reduction & anomaly detection**
-- Designed CNN architectures and visualized feature maps
-- Evaluated models beyond accuracy (precision, recall, ROC-AUC)
-
----
-
-## 🛠 Core Stack
-
-`Python` | `NumPy` | `Pandas` | `Scikit-learn` | `TensorFlow/Keras` | `Matplotlib` | `Seaborn`
-
----
-
-## 🎯 Current Focus
-
-- Medical AI & Intelligent Systems  
-- Secure AI pipelines  
-- Applied Deep Learning  
-- Model evaluation & robustness  
-
----
-
-📌 More projects available in the repository folders(https://github.com/bing-er/AI_Activities.git).
+| 🧮 [**AI Activity I**](https://github.com/bing-er/AI_Activities.git) | Linear Regression from scratch (Gradient Descent, RMSE, R², Ridge & Lasso comparison) | Python, NumPy, Pandas, Scikit-learn |
+| 📊 [**AI Activity II**](https://github.com/bing-er/AI_Activities.git) | Credit Card Fraud Detection (Imbalanced classification, SMOTE, ROC, F1 emphasis) | Python, Scikit-learn, imbalanced-learn |
+| 🧠 [**AI Activity III**](https://github.com/bing-er/AI_Activities.git) | Customer Segmentation (K-Means, PCA, t-SNE, Isolation Forest) | Python, Scikit-learn |
+| 🔢 [**AI Activity IV**](https://github.com/bing-er/AI_Activities.git) | Neural Network from scratch + MLP on MNIST (ReLU, Softmax, training diagnostics) | Python, NumPy, TensorFlow/Keras |
+| 🔥 [**AI Activity V**](https://github.com/bing-er/AI_Activities.git) | CNN for Wildfire Detection (Conv2D, augmentation, GPU training, feature visualization) | TensorFlow, Keras, GPU (Colab) |
 
 ---
 
