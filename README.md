@@ -17,7 +17,6 @@
 | 🧠 AI Activity III | Customer Segmentation (K-Means, PCA, t-SNE, Isolation Forest) | Python, Scikit-learn |
 | 🔢 AI Activity IV | Neural Network from scratch + MLP on MNIST (ReLU, Softmax, training diagnostics) | Python, NumPy, TensorFlow/Keras |
 | 🔥 AI Activity V | CNN for Wildfire Detection (Conv2D, augmentation, GPU training, feature visualization) | TensorFlow, Keras, GPU (Colab) |
-| 🌸 AI Activity VI | Transfer Learning (ResNet50, Feature Extraction vs Fine-Tuning, Oxford 102 Flowers, EarlyStopping, ReduceLROnPlateau) | TensorFlow/Keras, GPU (Colab) |
 
 ---
 
@@ -30,6 +29,7 @@
 | 🧠 [**AI Mini-Project 3**](https://github.com/bing-er/mini-project-3.git) | Unsupervised customer segmentation using clustering and anomaly detection | Python, Scikit-learn |
 | 🔬 [**AI Mini-Project 4**](https://github.com/bing-er/mini-project-4.git) | Fashion-MNIST deep learning image classification with business-oriented evaluation | Python, PyTorch |
 | 🫁 [**AI Mini-Project 5**](https://github.com/bing-er/mini-project-5.git) | CNN-based chest X-ray pneumonia detection using deep learning, with baseline vs. augmented models, architecture experiments, and medical-focused evaluation (high recall emphasis) | Python, PyTorch, NumPy, Pandas, Matplotlib |
+| 🌸 [**AI Mini-Project 6**](https://github.com/bing-er/mini-project-6.git) | Transfer learning using ResNet50 on Oxford 102 Flowers dataset; comparison of Feature Extraction vs Fine-Tuning with EarlyStopping and LR scheduling | Python, TensorFlow, Keras, GPU (Colab) |
 
 ---
 
