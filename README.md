@@ -30,7 +30,7 @@
 | 🧠 [**AI Mini-Project 3**](https://github.com/bing-er/mini-project-3.git) | Unsupervised customer segmentation using clustering and anomaly detection | Python, Scikit-learn |
 | 🔬 [**AI Mini-Project 4**](https://github.com/bing-er/mini-project-4.git) | Fashion-MNIST deep learning image classification with business-oriented evaluation | Python, PyTorch |
 | 🫁 [**AI Mini-Project 5**](https://github.com/bing-er/mini-project-5.git) | CNN-based chest X-ray pneumonia detection using deep learning, with baseline vs. augmented models, architecture experiments, and medical-focused evaluation (high recall emphasis) | Python, PyTorch, NumPy, Pandas, Matplotlib |
-| 🌸 [**AI Mini-Project 6**](https://github.com/bing-er/mini-project-6.git) | Transfer learning using ResNet50 on Oxford 102 Flowers dataset; comparison of Feature Extraction vs Fine-Tuning with EarlyStopping and LR scheduling | Python, TensorFlow, Keras, GPU (Colab) |
+| 🌸 [**AI Mini-Project 6**](https://github.com/bing-er/mini-project-6.git) | Transfer learning using ResNet50 on Oxford 102 Flowers dataset; comparison of Feature Extraction vs Fine-Tuning with EarlyStopping and LR scheduling | Python, TensorFlow 2.x (Metal backend), Keras, Apple Silicon GPU acceleration |
 
 ---
 
