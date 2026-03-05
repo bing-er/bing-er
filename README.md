@@ -64,7 +64,7 @@
 - [**Network-File-Transfer**](https://github.com/bing-er/Network-File-Transfer) – Secure file transfer with AES and sockets.  
 - [**Keylog-Data-Exfiltration**](https://github.com/bing-er/Keylog-Data-Exfiltration) – Keylogger and covert data exfiltration.  
 - [**pathfinding-optimization**](https://github.com/bing-er/pathfinding-optimization) – Optimized route algorithms.
-- [**Find-My-Force**](https://github.com/bing-er/find-my-force-dashboard) – Tactical RF situational awareness dashboard prototype.
+- [**Find-My-Force**](https://bing-er.github.io/rf-tactical-dashboard/) – Tactical RF situational awareness dashboard prototype.
 - [**rentRight**](https://github.com/bing-er/rentRight) – Team housing project using modern web stack.
 
 ## 📱 RentRight (BCIT COMP 7082 – Software Engineering)
