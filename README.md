@@ -61,6 +61,7 @@
 
 ## 🕵️‍♂️ Cybersecurity & Network Projects
 
+- [**Find-My-Force**]() – Tactical RF situational awareness dashboard prototype for identifying nearby RF-emitting platforms and classifying them as Friendly, Unverified, or Unknown. Built as a UI concept for the 2026 Red Team DefTech Hackathon.
 - [**Network-File-Transfer**](https://github.com/bing-er/Network-File-Transfer) – Secure file transfer with AES and sockets.  
 - [**Keylog-Data-Exfiltration**](https://github.com/bing-er/Keylog-Data-Exfiltration) – Keylogger and covert data exfiltration.  
 - [**pathfinding-optimization**](https://github.com/bing-er/pathfinding-optimization) – Optimized route algorithms.  
