@@ -19,6 +19,7 @@
 | 🔥 [**AI Activity V**](https://github.com/bing-er/AI_Activities.git)  | CNN for Wildfire Detection (Conv2D, augmentation, GPU training, feature visualization) | TensorFlow, Keras, GPU (Colab) 
 | 🌸 [**AI Activity VI**](https://github.com/bing-er/AI_Activities.git) | Transfer learning study comparing ResNet50 and EfficientNetB0 on a 5-class wildlife dataset; implemented feature extraction and fine-tuning (last 20 layers) with differential learning rates; best accuracy 95.7% | Python, TensorFlow, Keras, GPU (Colab) |
 | 🧠 [**AI Activity VIII**](https://github.com/bing-er/AI_Activities.git) | Image segmentation with U-Net on the Oxford-IIIT Pet dataset (pixel-level classification, IoU & Dice score evaluation) | Python, TensorFlow/Keras, TensorFlow Datasets, GPU (Colab) |
+| 🧠 [**AI Activity IX**](https://github.com/bing-er/AI_Activities.git) | NLP Sentiment Analysis with DistilBERT (Hugging Face ecosystem, tokenization, embeddings visualization, attention analysis, PyTorch fine-tuning) | Python, PyTorch, Hugging Face Transformers, Datasets, Scikit-learn |
 
 ---
 
