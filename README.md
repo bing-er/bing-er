@@ -35,6 +35,7 @@
 | 🌸 [**AI Mini-Project 6**](https://github.com/bing-er/mini-project-6.git) | Transfer learning using ResNet50 on Oxford 102 Flowers dataset; comparison of Feature Extraction vs Fine-Tuning with EarlyStopping and LR scheduling | Python, TensorFlow 2.x (Metal backend), Keras, Apple Silicon GPU acceleration |
 | 🩸 [**AI Mini-Project 7**](https://github.com/bing-er/mini-project-7.git) | Blood cell object detection using YOLOv8 to identify RBC, WBC, and platelets in microscopy images, including model training, bounding-box localization, and clinical-oriented evaluation | Python, YOLOv8 (Ultralytics), PyTorch, OpenCV |
 | 🌊 [**AI Mini-Project 8**](https://github.com/bing-er/mini-project-8.git) | Flood region semantic segmentation in aerial disaster imagery using a U-Net architecture trained on the Flood Area Segmentation dataset; includes Dice-loss optimization, data augmentation, and evaluation with Dice/IoU metrics | Python, TensorFlow/Keras, NumPy, OpenCV |
+| 🛡️ [**AI Mini-Project 9**](https://github.com/bing-er/mini-project-8.git) | Transformer-based content moderation system for hate-speech detection on social media; comparison of TF-IDF + Logistic Regression baseline vs fine-tuned DistilBERT, including class-imbalance handling, error analysis, and moderation workflow design | Python, PyTorch, Hugging Face Transformers, Scikit-learn, Pandas |
 
 ---
 
