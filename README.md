@@ -3,7 +3,7 @@
 <p align="left">
   <b>MSc in Applied Computing @ BCIT</b><br>
   <i>Specializing in AI, Data Science, and Cybersecurity</i><br><br>
-  🌎 Vancouver, BC | 🎓 BCIT 2025 | 💡 Passionate about solving real-world problems with AI and secure computing
+  🌎 Vancouver, BC | 🎓 BCIT 2026 | 💡 Passionate about solving real-world problems with AI and secure computing
 </p>
 
 ---
